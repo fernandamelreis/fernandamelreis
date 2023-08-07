@@ -1,5 +1,4 @@
-# 👋 Olá! Seja bem vindo ao meu perfil no Github.
-
+# 👋 Olá! 
 Sou professora e programadora entusiasta e amo desenvolver projetos na linguagem de programação Python. Tenho conhecimentos sólidos em Python Estruturado e Orientado à Objetos e familiaridade com o framework Django. ✨
 
 
