@@ -1,4 +1,6 @@
-### Hi there 👋🤓
+
+# Olá, me chamo Fernanda ! 
+## Seja bem vindo ao meu perfil GitHub 👋
 
 <!--
 **fernandamelreis/fernandamelreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/fernandamelreis/fernandamelreis/blob/output/github-contribution-grid-snake.svg)
