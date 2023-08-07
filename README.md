@@ -1,6 +1,8 @@
+# 👋 Olá! Seja bem vindo ao meu perfil no Github.
 
-# Olá, me chamo Fernanda ! 
-## Seja bem vindo ao meu perfil GitHub 👋
+Sou professora e programadora entusiasta em desenvolver projetos na linguagem Python com conhecimentos sólidos em Python Estruturado e Orientado à Objetos, com familiaridade no framework Django. ✨
+
+
 
 <!--
 **fernandamelreis/fernandamelreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
