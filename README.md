@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem vindo ao meu perfil no Github.
 
-Sou professora e programadora entusiasta em desenvolver projetos na linguagem Python com conhecimentos sólidos em Python Estruturado e Orientado à Objetos, com familiaridade no framework Django. ✨
+Sou professora e programadora entusiasta e amo desenvolver projetos na linguagem de programação Python. Tenho conhecimentos sólidos em Python Estruturado e Orientado à Objetos e familiaridade com o framework Django. ✨
 
 
 
@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![snake gif](https://github.com/fernandamelreis/fernandamelreis/blob/output/github-contribution-grid-snake.svg)
