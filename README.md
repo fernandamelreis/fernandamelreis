@@ -1,5 +1,5 @@
 # 👋 Olá! 
-Eu me chamo Fernanda, sou professora e programadora entusiasta. Amo o universo tecnológico e gosto de desenvolver projetos diferentes, para adquirir mais experiência. Atualmente, estou me aprofundando na linguagem de programação Python, onde tenho uma longa bagagem com conhecimentos sólidos na programação Estruturada e Orientação à Objetos. Recentemente, estou entusiasmada estudando e desenvolvendo projetos com o framework Django. ✨
+Eu me chamo Fernanda, sou professora e programadora. Amo o universo tecnológico e gosto de desenvolver projetos diferentes, para adquirir mais experiência. Atualmente, estou me aprofundando na linguagem de programação Python, onde tenho uma longa bagagem com conhecimentos sólidos na programação Estruturada e Orientação à Objetos. Recentemente, estou empolgada estudando e desenvolvendo projetos com o framework Django. ✨
 
 
 
